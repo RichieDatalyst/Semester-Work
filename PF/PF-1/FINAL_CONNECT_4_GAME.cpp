@@ -319,9 +319,6 @@ int main(){
     {
         goto Restart;
     }
-
-    cout<<"Allah Hafiz ";
-    return 0;
 }
 
 
