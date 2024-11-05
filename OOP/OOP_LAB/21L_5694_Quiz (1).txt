@@ -1,0 +1,5 @@
+1:Shallow copy constructor.
+2:Shallow copy constructor is not accessible again for display function once it eliminates the old stored data.
+3:When we don't want to make more memory locations for different objects but want to store the data of two objects in same memory location.
+4:Deep copy constructor does not remove old stored data.For example consider a notebook , it does not remove any data but when it finishes we use another notebook.
+5:Deep copy constructor requires object name and same name of constructor class.
